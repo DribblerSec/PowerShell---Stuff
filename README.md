@@ -12,3 +12,4 @@ For the time being, you will need to execute as admin, as I have not yet impleme
 there is a small entry to the code for a execution bypass, that method i've found to be old and am working on a new method,
 If you know one, feel free to let me know.
 
+Update: This now works by execution via .bat provided, autorun.inf also executes fine on vulnerable system, priv esc coming soon.
