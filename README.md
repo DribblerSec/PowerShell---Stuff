@@ -1,5 +1,5 @@
 # PowerShell---Stuff
-Collection of ps related goods
+Powershell Script for grabbing OS information - Aim is to profile a system quickly using either usb pendrive or by packaging this in with an installer.
 
 This was a quick write up with a friend, inspired by mimikatz and msf powershell based exploits
 
