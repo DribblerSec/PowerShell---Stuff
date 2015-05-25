@@ -13,3 +13,7 @@ there is a small entry to the code for a execution bypass, that method i've foun
 If you know one, feel free to let me know.
 
 Update: This now works by execution via .bat provided, autorun.inf also executes fine on vulnerable system, priv esc coming soon.
+
+
+Update: the original Powershell.exe -windowstyle hidden -executionpolicy remotesigned -File command has now been changed to
+Powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -File as that seemed to work "So simple and was staring at me the whole time *facepalm*".
