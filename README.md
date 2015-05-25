@@ -16,4 +16,4 @@ Update: This now works by execution via .bat provided, autorun.inf also executes
 
 
 Update: the original Powershell.exe -windowstyle hidden -executionpolicy remotesigned -File command has now been changed to
-Powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -File as that seemed to work "So simple and was staring at me the whole time *facepalm*".
+Powershell.exe -windowstyle hidden -ExecutionPolicy Bypass -File as that seemed to work "So simple and was staring at me the whole time *facepalm*". I was able to consistently execute code after I added this change.
